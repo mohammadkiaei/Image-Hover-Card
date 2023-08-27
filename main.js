@@ -41,4 +41,4 @@ document.querySelectorAll('.card').forEach((elem) => {
 	}
 })
 
-// Developed By SeyedMohammadMahdi Kiaei
+// Developed By Mohammad Kiaei
